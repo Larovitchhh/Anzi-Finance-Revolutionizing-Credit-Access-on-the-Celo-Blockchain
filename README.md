@@ -1,2 +1,4 @@
 # Anzi-Finance-Revolutionizing-Credit-Access-on-the-Celo-Blockchain
 Anzi Finance: Revolutionizing Credit Access on the Celo Blockchain
+In the rapidly evolving world of decentralized finance (DeFi), Anzi Finance is emerging as a transformative force within the Celo blockchain ecosystem. Founded in 2023 and based in Madrid, Spain, Anzi Finance leverages blockchain technology to provide innovative credit default guarantee solutions for small and medium-sized businesses (SMBs). By tokenizing credit default guarantees, Anzi Finance is reshaping how lenders manage risk and how SMBs access affordable financing, all while contributing to Celo’s mission of fostering financial inclusion and a regenerative digital economy. This article explores Anzi Finance’s role, impact, and integration within the Celo blockchain, highlighting its contributions to the future of on-chain credit.
+
